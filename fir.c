@@ -1,5 +1,7 @@
 /* Implementation of FIR filter */
 
+#include <stdlib.h>
+#include <string.h>
 #include "fir.h"
 
 /* Initialize FIR_filter struct
