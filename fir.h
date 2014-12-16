@@ -3,9 +3,6 @@
 #ifndef FIR_H
 #define FIR_H
 
-#include <stdlib.h>
-#include <string.h>
-
 typedef struct FIR_filter {
     int length;
     int count;
